@@ -4,6 +4,7 @@
 ## Objective
 
 --Netflix Project
+'''sql
 DROP TABLE IF EXISTS netflix; 
 CREATE TABLE netflix
 (
